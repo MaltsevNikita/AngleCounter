@@ -1,0 +1,8 @@
+D:\Gitbucket\AngleCounter\AngleCounter\AngleCounter\bin\Release\AngleCounter.exe.config
+D:\Gitbucket\AngleCounter\AngleCounter\AngleCounter\bin\Release\AngleCounter.exe
+D:\Gitbucket\AngleCounter\AngleCounter\AngleCounter\bin\Release\AngleCounter.pdb
+D:\Gitbucket\AngleCounter\AngleCounter\AngleCounter\obj\Release\AngleCounter.Form1.resources
+D:\Gitbucket\AngleCounter\AngleCounter\AngleCounter\obj\Release\AngleCounter.Properties.Resources.resources
+D:\Gitbucket\AngleCounter\AngleCounter\AngleCounter\obj\Release\AngleCounter.csproj.GenerateResource.Cache
+D:\Gitbucket\AngleCounter\AngleCounter\AngleCounter\obj\Release\AngleCounter.exe
+D:\Gitbucket\AngleCounter\AngleCounter\AngleCounter\obj\Release\AngleCounter.pdb
